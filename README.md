@@ -66,7 +66,7 @@
 
 <!-- Adding Github Stats and Streak Stats -->
 
-| <img src="https://github-readme-stats.vercel.app/api?username=sasiupparapalli28&theme=tokyonight&bg_color=0d1117&title_color=ff0000&text_color=ffffff&icon_color=ff0000"> | <img src="https://github-readme-streak-stats.herokuapp.com?user=sasiupparapalli28&theme=tokyonight&background=0d1117&border=ff0000&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=sasiupparapalli28&theme=tokyonight&bg_color=0d1117&title_color=ff0000&text_color=ffffff&icon_color=ff0000"> |[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=sasiupparapalli28&border_radius=6.5)](https://git.io/streak-stats)|
 | --- | ---- |
 
 <!-- Adding Readme Stats and Profile Summary -->
