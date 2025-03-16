@@ -53,11 +53,11 @@
 
 <h3 align="center">
  <a href="https://github.com/sasiupparapalli28">
-<img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-light-skin-tone.gif" width="26" height="26" align="left" /> 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="45" height="45" align="left" />
     </a>
  
 <a href="https://github.com/sasiupparapalli28">
-  <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-light-skin-tone.gif" width="22" height="22" align="right" />
+   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="45" height="45" align="right" />
     </a>
 【﻿STATS】 
 </h3>
@@ -88,11 +88,11 @@
 
 <h3 align="center">
  <a href="https://github.com/sasiupparapalli28">
-<img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-light-skin-tone.gif" width="26" height="26" align="left" /> 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="45" height="45" align="left" />
     </a>
  
 <a href="https://github.com/sasiupparapalli28">
-  <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-light-skin-tone.gif" width="22" height="22" align="right" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="45" height="45" align="right" />
     </a>
 【CONTRIBUTIONS】
 </h3>
