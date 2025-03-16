@@ -1,6 +1,6 @@
 
 <a href="https://github.com/sasiupparapalli28">
-<img src="https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0073.gif" width="100%" height="150px"/>
+<img src="https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0024.gif" width="150%" height="10px"/>
 </a>
 <h3 align="center">Welcome to Sasi Kanth's world of code!🤖</h3>
 <h5 align="left"> 🚀 Passionate Learner: I'm Sasikanth, driven to learn and grow. <br><br><br>
@@ -68,8 +68,11 @@
 
 <!-- Adding Github Stats and Streak Stats -->
 
-| <img src="https://github-readme-stats.vercel.app/api?username=sasiupparapalli28&theme=tokyonight&bg_color=0d1117&title_color=ff0000&text_color=ffffff&icon_color=ff0000"> |[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=sasiupparapalli28&border_radius=6.5)](https://git.io/streak-stats)|
-| --- | ---- |
+| GitHub Stats | GitHub Streak |
+|-------------|--------------|
+| <img src="https://github-readme-stats.vercel.app/api?username=sasiupparapalli28&theme=tokyonight&bg_color=0d1117&title_color=ff0000&text_color=ffffff&icon_color=ff0000"> | <img src="https://git-hub-streak-stats.vercel.app?user=sasiupparapalli28&border_radius=6.5&fire=FF0000&ring=FF0000&currStreakLabel=FF0000&sideNums=FF0000&currStreakNum=FF0000&sideLabels=FF0000&dates=FF5555&border=FF0000"> |
+
+
 
 <!-- Adding Readme Stats and Profile Summary -->
 </a>
