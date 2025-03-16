@@ -2,11 +2,11 @@
 <a href="https://github.com/sasiupparapalli28">
 <img src="https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0073.gif" width="100%" height="150px"/>
 </a>
-<h1 align="center">Welcome to Sasi Kanth's world of code!🤖</h1>
-<h3 align="left"> 🚀 Passionate Learner: I'm Sasikanth, driven to learn and grow. <br><br><br>
+<h3 align="center">Welcome to Sasi Kanth's world of code!🤖</h3>
+<h5 align="left"> 🚀 Passionate Learner: I'm Sasikanth, driven to learn and grow. <br><br><br>
 🤝 Innovative Problem-Solver: I aim to make a meaningful impact in tech with innovative ideas. <br><br><br>
 🌈 Lifelong Learner: Learning is a lifelong journey for me, embracing new challenges and opportunities. 
-</h3>
+</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sasiupparapalli28&label=Profile%20views&color=0e75b6&style=flat" alt="sasiupparapalli28" /> </p>
 
