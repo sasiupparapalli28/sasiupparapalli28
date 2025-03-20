@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **DSA through Java programming.**
 
-- 📫 How to reach me **ussk2284@gmail.com**
+- 📫 How to reach me **sasikanthupparapalli@gmail.com**
 
 - ⚡ Fun fact **I love playing chess and enjoy solving puzzles.**
 
